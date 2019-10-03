@@ -9,8 +9,8 @@ In this section, you'll review maximum likelihood estimation and logistic regres
 
 You will be able to:
 
-* Define MLE
-* Explain logistic regression at a high level
+- Define MLE
+- Explain logistic regression at a high level
 
 ## Maximum Likelihood Estimation
 

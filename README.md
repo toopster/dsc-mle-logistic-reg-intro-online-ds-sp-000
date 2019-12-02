@@ -1,16 +1,10 @@
 
-# Maximum Likelihood Estimation and Logistic Regression - Introduction
+# MLE and Logistic Regression - Introduction
 
 ## Introduction
 
 In this section, you'll review maximum likelihood estimation and logistic regression. In fact, you'll see that logistic regression can be seen through a statistical point of view with MLE. This should provide you some additional time to wrangle with statistical concepts and improve your overall coding abilities.
 
-## Objectives
-
-You will be able to:
-
-- Define MLE
-- Explain logistic regression at a high level
 
 ## Maximum Likelihood Estimation
 
@@ -22,4 +16,4 @@ Logistic regression, despite its name, is a classification algorithm. An interes
 
 ## Summary
 
-In this lesson, you got a brief overview of the section. With that, dive in and continue to review your knowledge!
+In this lesson, you got a brief overview of the concepts that will covered in this section. With that, dive in and continue to review your knowledge!
